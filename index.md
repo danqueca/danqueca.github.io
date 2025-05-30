@@ -21,4 +21,4 @@ title: Welcome
 - **OEM Benchmarking @ Intel** – Angular, Python, Data Analytics
 - **AKC Microservices** – Flask, OpenAPI, Oracle
 
-[View my GitHub Profile](https://github.com/your-github-username)
+[View my GitHub Profile](https://github.com/danqueca/)
