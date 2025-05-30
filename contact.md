@@ -8,4 +8,4 @@ You can reach me at:
 
 - 📧 Email: danqueca@gmail.com
 - 📍 Location: Heredia, Costa Rica
-- 🌐 GitHub: [your-github-username](https://github.com/your-github-username)
+- 🌐 GitHub: [danqueca](https://github.com/danqueca/)
